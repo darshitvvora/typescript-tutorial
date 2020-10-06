@@ -1,5 +1,8 @@
 "use strict";
 exports.__esModule = true;
+// How to execute
+// 1 terminal = tsc functions --watch
+// 2 terminal = node functions.js
 function add(num1, num2) {
     return num1 + num2;
 }

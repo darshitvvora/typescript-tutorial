@@ -1,4 +1,8 @@
 export {}
+// How to execute
+// 1 terminal = tsc main --watch
+// 2 terminal = node main.js
+
 let message = 'Welcome back';
 console.log(message);
 

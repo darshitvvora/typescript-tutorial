@@ -1,5 +1,10 @@
 export {}
 
+// How to execute
+// 1 terminal = tsc functions --watch
+// 2 terminal = node functions.js
+
+
 function add(num1: number, num2: number): number{
     return num1 + num2;
 }
